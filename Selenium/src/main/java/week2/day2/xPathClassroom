@@ -1,0 +1,3 @@
+//div[@class='x-grid3-cell-inner x-grid3-col-friendlyPartyName']/preceding::/div/a
+//label[@class='vertical-filters-label common-customCheckbox']/input[@value='Roadster']
+//div[@class='slds-form-element__control slds-grow']/input[@class='slds-input']
